@@ -1,0 +1,13 @@
+1. Qu'est ce qu'un service web ?
+    Un service web est une fonctionalité (ou service) offerte via une interface web
+    commune et facilement utilisable par des applications et utilisateurs tiers.
+
+2. Une API REST, qu'est-ce que c'est ?
+    Une API REST est une interface de programmation ou API, respectant une
+    architecture REST (Representational State Transfer).
+    REST en lui même est une série de contrainte qui vont définir la conseption de
+    l'API.
+
+3. Qu'est ce qu'une FastAPI ?
+    FastAPI est un framework python facilitant la conseption d'API robustes et
+    performantes.
